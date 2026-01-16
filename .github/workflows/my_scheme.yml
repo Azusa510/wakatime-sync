@@ -1,7 +1,7 @@
 name: Update WakaTime Gist
 on:
   schedule:
-    - cron: '40 23 * * *'   # 每天 00:00 UTC（按需修改）
+    - cron: '40 19 * * *'   # 每天 00:00 UTC（按需修改）
   workflow_dispatch:
 
 jobs:
